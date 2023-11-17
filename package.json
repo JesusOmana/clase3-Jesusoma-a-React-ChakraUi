@@ -1,7 +1,6 @@
 {
   "name": "miapp",
   "private": true,
-  "homepage": "https://JesusOmana.giyhub.io/clase3-Jesusoma-a-React-ChakraUi",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
