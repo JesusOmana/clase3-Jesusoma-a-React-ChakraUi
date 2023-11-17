@@ -17,7 +17,8 @@ function App() {
       price: 11.299,
       sku: "suculenta001",
       stock: 0,
-      image: "/public/Products/Echeveria-elegans.jpg",
+      image:
+        "https://th.bing.com/th/id/OIP.1NKXjGXsy2oAloRzJqLMrAHaHa?rs=1&pid=ImgDetMain",
       soleado: true,
     },
   ];
