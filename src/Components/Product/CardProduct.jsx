@@ -30,7 +30,7 @@ const CardProduct = ({
           <Image
             boxShadow="dark-lg"
             mt="20px"
-            maxW={400}
+            maxW={300}
             src={image}
             alt="Imagen de la Suculenta Echeveria Elegans"
             borderRadius="lg"
