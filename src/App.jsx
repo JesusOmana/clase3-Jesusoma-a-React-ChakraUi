@@ -16,7 +16,7 @@ function App() {
         "La planta echeveria, también llamada rosa de alabastro, es en realidad todo un género de plantas crasas que forma parte de la familia Crassulaceae. Sin embargo, cuando se habla de la rosa de alabastro o de la planta echeveria, lo común es que nos refiramos a la Echeveria elegans, la más común en jardinería gracias tanto a su belleza como a la gran resistencia que ostentan.",
       price: 11.299,
       sku: "suculenta001",
-      stock: 0,
+      stock: 12,
       image:
         "https://th.bing.com/th/id/OIP.TQ0R5CS96fL02ZeND-mesQHaHa?rs=1&pid=ImgDetMain",
       soleado: true,
