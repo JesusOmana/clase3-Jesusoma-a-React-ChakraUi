@@ -1,12 +1,11 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./App.css";
 import { CardProduct } from "./Components/Product/CardProduct";
 import { Nadvar1 } from "./Components/nadvar/nadvar";
 import { Example1 } from "./Components/Footer/Footer";
 import { ChakraProvider } from "@chakra-ui/react";
-
+/* Completar la informacion en la funcion App del producto para aplicarlo a la pagina */
 function App() {
   const products = [
     {
